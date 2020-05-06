@@ -13,4 +13,4 @@ If any part of my work does not make any sense or clear, then it means I am not 
 
 <hr>
 
-Copyright &copy; 2020. These notebooks and the source codes are released under the terms of the [MIT License].
+Copyright &copy; 2020. The source codes are released under the terms of the [MIT License].
