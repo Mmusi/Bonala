@@ -18,7 +18,7 @@
               <ul>
                 <li><i class="icofont-check-circled"></i>Improved business efficiency </li>
 				
-				
+				 
                 <li><i class="icofont-check-circled"></i> Personalized customer experience</li>
                 <li><i class="icofont-check-circled"></i> Sales effectiveness</li>
 				 <li><i class="icofont-check-circled"></i> Customer behavior prediction</li>
