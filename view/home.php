@@ -17,7 +17,7 @@
 
 <div class="content-slider">
   <div class=" slider">
-    <div class=" mask">
+    <div class=" mask"> 
       <ul>
           <li class="anim1">
               
