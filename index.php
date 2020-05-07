@@ -39,7 +39,7 @@ if(!empty($_GET['a'])){
     $action = $_GET['a'];
 } else {
 	$action = 'home';
-}
+} 
 
 $params = [
 	'ctrl' => $controller,
